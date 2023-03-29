@@ -1,4 +1,4 @@
-package com.idtus;
+package com.blurdel;
 
 public class Greeting {
 

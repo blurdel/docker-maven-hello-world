@@ -1,4 +1,4 @@
-package com.idtus;
+package com.blurdel;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
